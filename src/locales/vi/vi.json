@@ -1,0 +1,28 @@
+{
+    "hello": "xin chào",
+    "auth": {
+        "welcome": "Chào mừng!",
+        "welcomeSignIn": "Đăng nhập để tiếp tục",
+        "welcomeSignUp": "Đăng ký để tiếp tục",
+        "signIn": "Đăng nhập",
+        "signUp": "Đăng ký",
+        "email": "Email",
+        "username": "Tên đăng nhập",
+        "password": "Mật khẩu",
+        "confirmpassword": "Xác nhận mật khẩu",
+        "rememberMe": "Ghi nhớ đăng nhập",
+        "dontHaveAccount": "Bạn chưa có tài khoản?",
+        "haveAccount": "Bạn đã có tài khoản?"
+    },
+    "intro": {
+        "skip": "Bỏ qua",
+        "next": "Tiếp theo",
+        "done": "Xong",
+        "titleIntro1": "Khám phá",
+        "massageIntro1": "Nền tảng đổi mới của chúng tôi kết hợp sức mạnh của sự tương tác xã hội với các bài học ngôn ngữ toàn diện, tạo ra trải nghiệm học tập năng động và phong phú.",
+        "titleIntro2": "Chia sẻ",
+        "massageIntro2": "Chúng tôi tin rằng kiến thức sẽ phát triển khi được chia sẻ và việc học tiếng Anh sẽ trở thành một nỗ lực mang tính phong phú của cộng đồng.",
+        "titleIntro3": "Tìm kiếm",
+        "massageIntro3": "Với rất nhiều nguồn tài nguyên trong tầm tay, bạn có thể khám phá và tìm thấy câu trả lời mà bạn tìm kiếm để nâng cao trình độ tiếng Anh của mình."
+    }
+}

@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  demo
+//
+//  Created by admin on 20/06/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include? "tmp.xcconfig"

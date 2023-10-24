@@ -1,0 +1,28 @@
+{
+    "hello": "ttttt",
+    "auth": {
+        "welcome": "환영!",
+        "welcomeSignIn": "계속하려면 로그인하세요",
+        "welcomeSignUp": "계속하려면 가입하세요",
+        "signIn": "로그인",
+        "signUp": "가입하기",
+        "email": "이메일",
+        "username": "사용자 이름",
+        "password": "비밀번호",
+        "confirmpassword": "비밀번호 확인",
+        "rememberMe": "날 기억해",
+        "dontHaveAccount": "계정이 없나요?",
+        "haveAccount": "이미 계정이 있나요?"
+    },
+    "intro": {
+        "skip": "건너뛰다",
+        "next": "다음",
+        "done": "완료",
+        "titleIntro1": "탐구하다",
+        "massageIntro1": "우리의 혁신적인 플랫폼은 사회적 상호작용의 힘과 포괄적인 언어 수업을 결합하여 역동적이고 몰입도 높은 학습 경험을 만들어냅니다.",
+        "titleIntro2": "공유하다",
+        "massageIntro2": "우리는 지식은 공유할 때 성장하며, 영어 학습은 공동체의 풍요로운 노력이 된다고 믿습니다.",
+        "titleIntro3": "찾다",
+        "massageIntro3": "여러분의 손끝에 있는 수많은 자료를 통해 영어 능력을 강화하기 위해 원하는 답을 탐색하고 찾을 수 있습니다."
+    }
+}

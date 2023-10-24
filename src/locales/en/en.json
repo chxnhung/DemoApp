@@ -1,0 +1,28 @@
+{
+    "hello": "dgsdgsgas",
+    "auth": {
+        "welcome": "Welcome!",
+        "welcomeSignIn": "Sign in to continue",
+        "welcomeSignUp": "Sign up to continue",
+        "signIn": "Sign in",
+        "signUp": "Sign up",
+        "email": "Email",
+        "username": "Username",
+        "password": "Password",
+        "confirmpassword": "Confirm Password",
+        "rememberMe": "Remember me",
+        "dontHaveAccount": "Don't have an account?",
+        "haveAccount": "Already have an account?"
+    },
+    "intro": {
+        "skip": "Skip",
+        "next": "Next",
+        "done": "Done",
+        "titleIntro1": "Explore",
+        "massageIntro1": "Our innovative platform combines the power of social interaction with comprehensive language lessons, creating a dynamic and immersive learning experience.",
+        "titleIntro2": "Share",
+        "massageIntro2": "We believe that knowledge grows when shared, and learning English becomes an enriching communal endeavor.",
+        "titleIntro3": "Search",
+        "massageIntro3": "With a plethora of resources at your fingertips, you can explore, and find the answers you seek to bolster your English proficiency."
+    }
+}

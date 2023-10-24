@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "15605053806",
+        "project_id": "sotaeng-fd931",
+        "storage_bucket": "sotaeng-fd931.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:15605053806:android:9e80556b8818870f3e297f",
+                "android_client_info": {
+                    "package_name": "com.sotaeng"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDkEwk0DOcSsn8l4iPPxg5gIju29BCK3tM"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
