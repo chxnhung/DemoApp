@@ -12,6 +12,7 @@ import { useEffect, useMemo, useState } from 'react';
 import Splash from 'react-native-splash-screen';
 import Storages, { KeyStorage } from 'utils/storages';
 import { getInitRoute } from 'utils/utils';
+import linking from '../../linking'
 
 const Stack = createNativeStackNavigator<RootParamList>();
 
@@ -58,7 +59,7 @@ const StackNavigator = () => {
     }, [initRoute]);
 
     return (
-        <NavigationContainer ref={navigationRef}>
+        <NavigationContainer linking={linking} ref={navigationRef}>
             {!!initRoute && <RootStack initRoute={initRoute} />}
             {/* <Codepush /> */}
         </NavigationContainer>
